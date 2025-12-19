@@ -8,7 +8,7 @@ Programmer focused on developing websites and systems for SA:MP and MTA.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,lua" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Pawn_logo.png" alt="Pawn logo" />
+  <img height="48" src="https://raw.githubusercontent.com/pawn-lang/compiler/master/docs/logo.svg" alt="Pawn" />
 </p>
 
 ---
