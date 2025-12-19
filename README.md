@@ -8,7 +8,7 @@ Programmer focused on developing websites and systems for SA:MP and MTA.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,lua" />
-  <img src="https://img.shields.io/badge/Pawn-SA:MP-0A6AFF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pawn-0A6AFF?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
